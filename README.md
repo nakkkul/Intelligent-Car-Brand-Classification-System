@@ -55,3 +55,21 @@ Open the application in your browser at http://127.0.0.1:5000.
 
 ### 🌐 Deployment Link <br>
 The live version of the application can be accessed here: https://car-brand-classification.onrender.com
+
+### 📂 Repository Structure <br>
+Car-Brand-Classification/  
+│  
+├── app.py               # Main Flask application  
+├── model/               # Trained model and preprocessing scripts  
+├── static/              # CSS, JavaScript, and other static assets  
+├── templates/           # HTML templates for Flask  
+├── requirements.txt     # Required Python libraries  
+└── README.md            # Project documentation  
+
+### 📚 Future Enhancements
+Expand the training dataset for improved generalizability.
+Add multi-brand prediction functionality for complex inputs.
+Implement API integration to support external applications.
+
+### 🤝 Acknowledgments
+Special thanks to open-source datasets and deep learning frameworks like TensorFlow/Keras for empowering this project.
