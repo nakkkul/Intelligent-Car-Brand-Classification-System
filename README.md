@@ -33,6 +33,7 @@ Simple image upload functionality.<br>
 Displays the predicted car brand with confidence scores.<br>
 Deployment: Flask serves as the backend framework, hosted on Render for public accessibility.
 
+### 📸 Interface Preview
 ![App Interface](./images/inter.png)
 
 ### 📋 Setup Instructions<br>
