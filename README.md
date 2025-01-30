@@ -1,4 +1,4 @@
-# AutoBrand Identifier: Intelligent Car Brand Classification
+# AutoBrand Identifier: Intelligent Car Brand Classification 
 
 ### 📜 Overview <br>
 AutoBrand Identifier is a fully functional web application that predicts the brand of a car based on user-provided images. By leveraging advanced deep learning techniques, the system ensures accurate and efficient brand classification. The application is powered by Flask and deployed on Render, providing seamless access and scalability.
